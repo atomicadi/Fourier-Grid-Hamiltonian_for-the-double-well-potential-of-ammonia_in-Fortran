@@ -1,2 +1,2 @@
 # 1D Fourier Grid Hamiltonian (FGH) for the double well potential of ammonia in Fortran
-Ammonia (C<sub>3V</sub>) converts its' mirror-image strucrure (which in invarient and same C3v point group) through a planner sp2 hybridiged geometry (D3h).
+Due to the rapid transformation of Ammonia's equilibrium geometry (C<sub>3V</sub>) to its' mirror-image strucrure (which in invarient and same C<sub>3V</sub> point group) via ammonia's umbrella inversion mode, ammonia is trapped inside a symmetric double well potential. This rapid transformation is occured through a planner sp2 hybridiged geometry (D<sub>3h</sub>) which is responsiple for the potential barrier in this doble well potential.
