@@ -1,1 +1,1 @@
-# Fourier-Grid-Hamiltonian_for-the-double-well-potential-of-ammonia_in-Fortran
+# 1D Fourier Grid Hamiltonian (FGH) for the double well potential of ammonia in Fortran
