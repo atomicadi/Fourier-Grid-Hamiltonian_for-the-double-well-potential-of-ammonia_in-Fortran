@@ -10,5 +10,5 @@ $$
 
 </p>
 
-Where V<sub>max</sub> = Potential at the central maxima, (\frac{a}{2} ± b) = Location of the two local minima, \frac{a}{2} = Location of the central maxima
+Where V<sub>max</sub> = Potential at the central maxima, ($\frac{a}{2}$ ± b) = Location of the two local minima, \frac{a}{2} = Location of the central maxima
 
