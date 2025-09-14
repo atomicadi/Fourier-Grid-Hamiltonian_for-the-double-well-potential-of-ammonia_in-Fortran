@@ -12,5 +12,5 @@ $$
 
 Where V<sub>max</sub> = Potential at the central maxima, ($\frac{a}{2}$ ± b) = Location of the two local minima, $\frac{a}{2}$ = Location of the central maxima.
 
-The potential barrier in this DWP satisfies the conditions necessary for quantum tunneling, leading to the transmission through the barrier.
+The potential barrier in this DWP satisfies the conditions necessary for quantum tunneling, leading to transmission through the barrier. This, in turn, causes the splitting of the localized energy levels within each well of the DWP.
 
