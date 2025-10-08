@@ -61,4 +61,3 @@ One can simply achieve the results by compiling the files using the external lib
 gfortran -o file file.f90 -llapack -lblas
 ./file 
 ```
-
