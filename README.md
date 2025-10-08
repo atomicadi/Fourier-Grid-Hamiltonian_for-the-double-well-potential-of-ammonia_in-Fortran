@@ -1,4 +1,4 @@
-# 1D Fourier Grid Hamiltonian (FGH) for the double well potential of NH<sub>3</sub> in Fortran and Morse potential of H<sub>2</sub>
+# 1D Fourier Grid Hamiltonian (FGH) for the Morse potential of H<sub>2</sub> and double well potential of NH<sub>3</sub> in Fortran 
 ![image alt](https://github.com/atomicadi/Fourier-Grid-Hamiltonian_for-the-double-well-potential-of-ammonia_in-Fortran/blob/e337da37fbc176ae7765c56a2dc8750cec082dbe/Untitled.001.png)
 Fourier Grid Hamiltonian (FGH) is a numerical technique used to solve the Schrodinger equation for bound states. Instead of using basis functions (like harmonic oscillators or plane waves), the method discretizes the coordinate space into a grid and constructs the Hamiltonian.
 <p align="center">
@@ -24,6 +24,7 @@ $$
 
 The delailed about the FGH is written in a pdf format and uploaded in this GitHub page (**FGH.pdf**).
 
+# Example 1: Morse potential of H$_{2}$
 Due to the rapid transformation of ammonia's equilibrium geometry (C<sub>3V</sub>) to its' mirror-image strucrure (which in invarient and same C<sub>3V</sub> point group) via ammonia's umbrella inversion mode, ammonia is trapped inside a symmetric double well potential (denoted as DWP in the rest of the README). This rapid transformation is occured through a planner sp<sup>2</sup> hybridiged geometry (D<sub>3h</sub>) which is responsiple for the potential barrier in this DWP. The form of the potential is,
 <p align="center">
 
