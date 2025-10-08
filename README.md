@@ -27,7 +27,7 @@ Due to the rapid transformation of ammonia's equilibrium geometry (C<sub>3V</sub
 
 
 $$
-H_{ij}^0 = \frac{2}{N} \sum_{l=1}^{n}V(x) = \frac{V_{max}}{b^4} ((x- \frac{a}{2})^2 - b^2)^2  ...... (1)
+H_{ij}^0 = \frac{2}{N} \sum_{l=1}^{n}(cos(\frac{l2\pi(i-j)}{N})\frac(h}{2m}(lk)^2) + V(x_i)del_{ij} = \frac{V_{max}}{b^4} ((x- \frac{a}{2})^2 - b^2)^2  ...... (1)
 $$
 
 
