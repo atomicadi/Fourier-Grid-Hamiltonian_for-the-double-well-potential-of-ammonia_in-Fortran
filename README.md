@@ -11,7 +11,7 @@ $$
 
 </p>
 
-Where H = Hamiltonia, T = kinetic energy, and V(x) = Potential energy. In this method, the kinetic energy matrix is computed using Fourier transformation, which efficiently connects the momentum space and coordinate space representations and finally the form of the hamiltonian becomes,
+Where $\hat{H}$ = Hamiltonia operator, $\hat{T}$ = Kinetic energy operator, and V(x) = Potential energy. In this method, the kinetic energy matrix is computed using Fourier transformation, which efficiently connects the momentum space and coordinate space representations and finally the form of the hamiltonian becomes,
 <p align="center">
 
 
