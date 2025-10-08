@@ -45,7 +45,7 @@ In this example the FGH is solved using the double well potential of NH<sub>3</s
 
 
 $$
-H_{ij}^0 = \frac{2}{N} \sum_{l=1}^{n} (cos(\frac{l2\pi(i-j)}{N})\frac{\hbar^2}{2m}(lΔk)^2) + V(x_i)δ_{ij}  ...... (1)
+V(x) = \frac{V_{max}}{b^4}((x-\frac{a}{2})^2 - b^2)^2  ...... (1)
 $$
 
 
