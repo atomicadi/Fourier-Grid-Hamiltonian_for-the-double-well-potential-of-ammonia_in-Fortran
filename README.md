@@ -16,7 +16,7 @@ Where H = Hamiltonia, T = kinetic energy, and V(x) = Potential energy. In this m
 
 
 $$
-H_{ij}^0 = \frac{2}{N} \sum_{l=1}^{n} (cos(\frac{l2\pi(i-j)}{N})\frac{\hbar^2}{2m}(lΔk)^2) + V(x_i)δ_{ij}  ...... (2)
+\hat{H}_{ij}^0 = \frac{2}{N} \sum_{l=1}^{n} (cos(\frac{l2\pi(i-j)}{N})\frac{\hbar^2}{2m}(lΔk)^2) + V(x_i)δ_{ij}  ...... (2)
 $$
 
 
