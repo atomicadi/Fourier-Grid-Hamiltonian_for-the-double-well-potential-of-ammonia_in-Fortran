@@ -37,7 +37,7 @@ $$
 </p>
 
 Where, D<sub>e</sub> = The dissociation energy, r<sub>0</sub> = equilibrium bond distance, r = bond distance, and β = range of parameter related to the potential's curvature. For H<sub>2</sub> the chosen parameters are, D<sub>e</sub> = 0.1744 a.u., r<sub>0</sub> = 1.40201a.u., and β = 1.02764 a.u. Beside the morse parameters, the total distance (X<sub>min</sub>-X<sub>max</sub>) and the number of grid points are taken from 0-2 and 10 respectively for the FGH calculation.\
-For more detalis: https://pubs.aip.org/aip/jcp/article/91/6/3571/221213/The-Fourier-grid-Hamiltonian-method-for-bound
+For more details: https://pubs.aip.org/aip/jcp/article/91/6/3571/221213/The-Fourier-grid-Hamiltonian-method-for-bound
 
 # Example 2: Double well potential of NH<sub>3</sub>
 In this example the FGH is solved using the double well potential of NH<sub>3</sub> in Fortran (**FGH_DWP.f90**). Due to the rapid transformation of ammonia's equilibrium geometry (C<sub>3V</sub>) to its' mirror-image strucrure (which in invarient and same C<sub>3V</sub> point group) via ammonia's umbrella inversion mode, ammonia is trapped inside a symmetric double well potential (denoted as DWP in the rest of the README). This rapid transformation is occured through a planner sp<sup>2</sup> hybridiged geometry (D<sub>3h</sub>) which is responsiple for the potential barrier in this DWP. The form of the potential is,
@@ -54,5 +54,5 @@ $$
 Where V<sub>max</sub> = Potential at the central maxima, ($\frac{a}{2}$ ± b) = Location of the two local minima, $\frac{a}{2}$ = Location of the central maxima.
 
 The potential barrier in this DWP satisfies the conditions necessary for quantum tunneling, leading to transmission through the barrier. This, in turn, causes the splitting of the localized energy levels within each well of the DWP. For NH<sub>3</sub> the chosen parameters are, V<sub>max</sub> = 0.0080929597d0 a.u., b = 23.2749, and a/2 = 90.0002. Beside the DWP parameters, the total distance (X<sub>min</sub>-X<sub>max</sub>) and the number of grid points are taken from 30-150 and 7 respectively for the FGH calculation.\
-For more detalis: https://thesis.unipd.it/retrieve/639afb42-2ac8-4cbc-9584-a8c8af09353c/Tesi%20Triennale%20Furegon%20Annagioia.pdf | https://pubs.acs.org/doi/10.1021/ed084p1067 | https://ar5iv.labs.arxiv.org/html/1209.2521
+For more details: https://thesis.unipd.it/retrieve/639afb42-2ac8-4cbc-9584-a8c8af09353c/Tesi%20Triennale%20Furegon%20Annagioia.pdf | https://pubs.acs.org/doi/10.1021/ed084p1067 | https://ar5iv.labs.arxiv.org/html/1209.2521
 
