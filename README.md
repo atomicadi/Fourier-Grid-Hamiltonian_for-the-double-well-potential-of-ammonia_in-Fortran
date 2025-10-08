@@ -5,7 +5,7 @@ Fourier Grid Hamiltonian (FGH) is a numerical technique used to solve the Schrod
 
 
 $$
-H =  T + V(x)  ...... (1)
+\hat{H} =  \hat{T} + \hat{V}(x)  ...... (1)
 $$
 
 
