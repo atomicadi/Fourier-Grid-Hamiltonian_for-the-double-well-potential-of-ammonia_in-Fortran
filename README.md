@@ -53,5 +53,6 @@ $$
 
 Where V<sub>max</sub> = Potential at the central maxima, ($\frac{a}{2}$ ± b) = Location of the two local minima, $\frac{a}{2}$ = Location of the central maxima.
 
-The potential barrier in this DWP satisfies the conditions necessary for quantum tunneling, leading to transmission through the barrier. This, in turn, causes the splitting of the localized energy levels within each well of the DWP.
+The potential barrier in this DWP satisfies the conditions necessary for quantum tunneling, leading to transmission through the barrier. This, in turn, causes the splitting of the localized energy levels within each well of the DWP. For NH<sub>3</sub> the chosen parameters are, V<sub>max</sub> = 0.0080929597d0 a.u., b = 23.2749, and a/2 = 90.0002. Beside the DWP parameters, the total distance (X<sub>min</sub>-X<sub>max</sub>) and the number of grid points are taken from 30-150 and 7 respectively for the FGH calculation.\
+For more detalis: https://thesis.unipd.it/retrieve/639afb42-2ac8-4cbc-9584-a8c8af09353c/Tesi%20Triennale%20Furegon%20Annagioia.pdf | https://pubs.acs.org/doi/10.1021/ed084p1067 | https://ar5iv.labs.arxiv.org/html/1209.2521
 
