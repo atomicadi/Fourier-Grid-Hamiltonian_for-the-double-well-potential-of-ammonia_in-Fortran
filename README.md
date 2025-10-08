@@ -22,7 +22,7 @@ $$
 
 </p>
 
-The delailed about the FGH is written in a pdf format and uploaded in this GitHub page (**FGH.pdf**).
+The delails about the FGH is written in a pdf format and uploaded in this GitHub page (**FGH.pdf**).
 
 # Example 1: Morse potential of H<sub>2</sub>
 In this example the FGH is solved using the morse potential of H<sub>2</sub> in Fortran (**FGH_Morse.f90**). The form of the morse potential is,
