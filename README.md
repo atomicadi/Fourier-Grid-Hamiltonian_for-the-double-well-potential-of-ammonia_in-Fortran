@@ -16,7 +16,7 @@ Where $\hat{H}$ = Hamiltonia operator, $\hat{T}$ = Kinetic energy operator, and 
 
 
 $$
-\hat{H}_{ij}^0 = \frac{2}{N} \sum_{l=1}^{n} (cos(\frac{l2\pi(i-j)}{N})\frac{\hbar^2}{2m}(lΔk)^2) + V(x_i)δ_{ij}  ...... (2)
+\hat{H}_{ij}^0 = \frac{2}{N} \sum_{l=1}^{n} (cos(\frac{l2\pi(i-j)}{N})\frac{\hbar^2}{2m}(lΔk)^2) + V(x_i)δ_{ij}  ...... (3)
 $$
 
 
@@ -36,7 +36,7 @@ $$
 
 </p>
 
-Due to the rapid transformation of ammonia's equilibrium geometry (C<sub>3V</sub>) to its' mirror-image strucrure (which in invarient and same C<sub>3V</sub> point group) via ammonia's umbrella inversion mode, ammonia is trapped inside a symmetric double well potential (denoted as DWP in the rest of the README). This rapid transformation is occured through a planner sp<sup>2</sup> hybridiged geometry (D<sub>3h</sub>) which is responsiple for the potential barrier in this DWP. The form of the potential is,
+Where,D<sub>e</sub> = The dissociation energy, r<sub>0</sub> = equilibrium bond distance, r = bond distance, and β = range of parameter related to the potential's curvature. For H<sub>2</sub> the parameters are, D<sub>e</sub> = 0.1744 a.u., r<sub>0</sub> = 1.40201a.u., and β = 1.02764 a.u. Also for the FGH, the total distance and the number of grid points are taken from 0-2 and 10 respectively.  in this example is   to the rapid transformation of ammonia's equilibrium geometry (C<sub>3V</sub>) to its' mirror-image strucrure (which in invarient and same C<sub>3V</sub> point group) via ammonia's umbrella inversion mode, ammonia is trapped inside a symmetric double well potential (denoted as DWP in the rest of the README). This rapid transformation is occured through a planner sp<sup>2</sup> hybridiged geometry (D<sub>3h</sub>) which is responsiple for the potential barrier in this DWP. The form of the potential is,
 <p align="center">
 
 
