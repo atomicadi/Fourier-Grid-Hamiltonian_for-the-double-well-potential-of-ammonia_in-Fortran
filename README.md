@@ -16,7 +16,7 @@ Where $\hat{H}$ = Hamiltonia operator, $\hat{T}$ = Kinetic energy operator, and 
 
 
 $$
-\hat{H}_{ij}^0 = \frac{2}{N} \sum_{l=1}^{n} (cos(\frac{l2\pi(i-j)}{N})\frac{\hbar^2}{2m}(lΔk)^2) + V(x_i)δ_{ij}  ...... (3)
+\hat{H}_{ij}^0 = \frac{2}{N} \sum_{l=1}^{n} (cos(\frac{l2\pi(i-j)}{N})\frac{\hbar^2}{2m}(lΔk)^2) + V(x_i)δ_{ij}  ...... (2)
 $$
 
 
@@ -30,7 +30,7 @@ In this example the FGH is solved using the morse potential of H<sub>2</sub> in 
 
 
 $$
-V(r) = D_e (1 - e^{-β(r-r_0)})^2 ...... (2)
+V(r) = D_e (1 - e^{-β(r-r_0)})^2 ...... (3)
 $$
 
 
@@ -45,7 +45,7 @@ In this example the FGH is solved using the double well potential of NH<sub>3</s
 
 
 $$
-V(x) = \frac{V_{max}}{b^4}((x-\frac{a}{2})^2 - b^2)^2  ...... (1)
+V(x) = \frac{V_{max}}{b^4}((x-\frac{a}{2})^2 - b^2)^2  ...... (4)
 $$
 
 
